@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kent-daniel&label=Profile%20views&color=0e75b6&style=flat" alt="kent-daniel" /> </p>
 
-- 🔭 I’m currently working on [**InsightFlow**](https://insight-flow-chi.vercel.app/)
+- 🔭 I’m currently working on [**InsightFlow**](https://insight-flow-xi.vercel.app/)
 
 - 👨‍💻 All of my projects are available at [https://kent-daniel-portfolio.vercel.app/](https://kent-daniel-portfolio.vercel.app/)
 
